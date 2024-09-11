@@ -14,7 +14,7 @@
             Httpreq.send(null);
             return Httpreq.responseText;          
         }
-        var json_obj = JSON.parse(Get("http://10.91.32.19/users"));
+        var json_obj = JSON.parse(Get("http://localhost:5000/users"));
         console.log("this is the author name: "+json_obj.Httpreq);
     </script>
 </body>
