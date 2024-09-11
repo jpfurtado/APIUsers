@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1__4k6tElSChgzSO0KQhPuE1wmQekYlIM
     
     Baseado em: https://nataniel-paiva.medium.com/cria%C3%A7%C3%A3o-de-uma-api-rest-com-python-76696d17bfb9
-    
 """
 
 #pip install flask flask-jsonpify flask-sqlalchemy flask-restful
